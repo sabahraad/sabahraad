@@ -8,7 +8,6 @@ Building reliable APIs and payment systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/raad-sabah-a603a6180/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:raadsabah71@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=sabahraad&style=flat&color=blue)](https://github.com/sabahraad)
 
 </div>
 
